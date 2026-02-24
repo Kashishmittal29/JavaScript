@@ -34,4 +34,3 @@ console.log(url.includes('kashish'));
 //split
 console.log(gameName.split('-'));
 
-
